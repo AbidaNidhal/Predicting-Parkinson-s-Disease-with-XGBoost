@@ -18,4 +18,19 @@ The objectives of this project are :
 -------------------------------------------------------------------------------------------------------
 
 **Screen shots**
-![alt text]()
+![alt text](https://github.com/AbidaNidhal/Predicting-Parkinson-s-Disease-with-XGBoost/blob/main/1.jpg)
+![alt text](https://github.com/AbidaNidhal/Predicting-Parkinson-s-Disease-with-XGBoost/blob/main/2.jpg)
+![alt text](https://github.com/AbidaNidhal/Predicting-Parkinson-s-Disease-with-XGBoost/blob/main/3.jpg)
+![alt text](https://github.com/AbidaNidhal/Predicting-Parkinson-s-Disease-with-XGBoost/blob/main/4.jpg)
+![alt text](https://github.com/AbidaNidhal/Predicting-Parkinson-s-Disease-with-XGBoost/blob/main/5.jpg)
+![alt text](https://github.com/AbidaNidhal/Predicting-Parkinson-s-Disease-with-XGBoost/blob/main/6.jpg)
+![alt text](https://github.com/AbidaNidhal/Predicting-Parkinson-s-Disease-with-XGBoost/blob/main/7.jpg)
+![alt text](https://github.com/AbidaNidhal/Predicting-Parkinson-s-Disease-with-XGBoost/blob/main/8.jpg)
+![alt text](https://github.com/AbidaNidhal/Predicting-Parkinson-s-Disease-with-XGBoost/blob/main/9.jpg)
+![alt text](https://github.com/AbidaNidhal/Predicting-Parkinson-s-Disease-with-XGBoost/blob/main/10.jpg)
+![alt text](https://github.com/AbidaNidhal/Predicting-Parkinson-s-Disease-with-XGBoost/blob/main/11.jpg)
+![alt text](https://github.com/AbidaNidhal/Predicting-Parkinson-s-Disease-with-XGBoost/blob/main/12.jpg)
+![alt text](https://github.com/AbidaNidhal/Predicting-Parkinson-s-Disease-with-XGBoost/blob/main/13.jpg)
+![alt text](https://github.com/AbidaNidhal/Predicting-Parkinson-s-Disease-with-XGBoost/blob/main/14.jpg)
+![alt text](https://github.com/AbidaNidhal/Predicting-Parkinson-s-Disease-with-XGBoost/blob/main/15.jpg)
+![alt text](https://github.com/AbidaNidhal/Predicting-Parkinson-s-Disease-with-XGBoost/blob/main/16.jpg)
